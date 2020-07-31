@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.14.1)
+    minitest-emoji (2.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest (~> 5.14)
+  minitest-emoji (~> 2.0)
+
+BUNDLED WITH
+   1.17.2
